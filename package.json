@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/poolramos/coder#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2"
   }
 }
